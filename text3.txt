@@ -1,2 +1,14 @@
+<<<<<<< HEAD
+New practice session
+Merge request prac
+
+need to know
+how it works
+add to it
+=======
 new
 last
+
+New practice session
+Merge request prac
+>>>>>>> main
